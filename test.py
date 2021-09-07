@@ -5,5 +5,3 @@ def plus(a,b):
 def divide_main(a,b):
 	return a/b
 
-def no_use3:
-	print("Hello")
