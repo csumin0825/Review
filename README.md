@@ -6,4 +6,4 @@
 - 브랜치 사용하기
 - Git 협업하기
 
-- git stash pop Test
+- git stash pop - Test
