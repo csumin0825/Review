@@ -5,5 +5,4 @@
 - 커밋 다루기
 - 브랜치 사용하기
 - Git 협업하기
-
-- git stash pop - Test
+- Git 자유자재로 활용하기
