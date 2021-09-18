@@ -8,5 +8,4 @@ def divide_main(a,b):
 def no_use2:
 	print("HI")
 
-def no_use1:
-	print("Hello")
+
